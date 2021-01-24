@@ -1,3 +1,3 @@
 # DataStructure
 
-https://www.notion.so/f387345c41b842728265dbd3640a5df6?v=13065f24cabd4d21bd5a2edd2b818682
+https://www.notion.so/36d16731de53449d98c68b68ff45476f?v=0f449a9e44ee42b7842bb5cd4d9f485c
