@@ -70,7 +70,7 @@ int LNext(List * plist, Data * pdata)
 		plist->cur = plist->cur->next;  
 
 		*pdata = plist->cur->data;       
-		return TRUE                 
+		return TRUE;                 
 }
 
 Data LRemove(List * plist)
@@ -88,7 +88,7 @@ Data LRemove(List * plist)
 		plist->before->next = plist->cur->next;
 		plist->cur = plist->before;
 		
-		free(rpos)
+		free(rpos);
 		(plist->numOfData)--;
 		return rdata;
 }
