@@ -71,16 +71,3 @@ int main() {
 
 	return 0;
 }
-
->> Enter integer: 2
->> Enter integer: 4
->> Enter integer: 6
->> Enter integer: 8
->> Enter integer: 0
-
->> Print all input data
->> 2 4 6 8
->> Delete 2.
->> Delete 4.
->> Delete 6.
->> Delete 8.
