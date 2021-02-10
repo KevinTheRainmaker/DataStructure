@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5040dea9-f32d-4867-af2c-46f823206bb4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/단순연결리스트 - 더미 노드 (Dummy Node)/DLinkedList.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/단순연결리스트 - 더미 노드 (Dummy Node)/DLinkedList.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/단순연결리스트 - 더미 노드 (Dummy Node)/DLinkedListMain.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/동적 계획법 (Dynamic Programming)/0-1 Knapsack(DP).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/분할정복 (Divide &amp; Conquer)/Karatsuba Algorithm(DnC).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/양방향 연결 리스트 (Doubly Linked List)/DBLinkedList.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/양방향 연결 리스트 (Doubly Linked List)/DBLinkedList.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/양방향 연결 리스트 (Doubly Linked List)/DBLinkedListMain.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/연결 기반 리스트/배열기반리스트.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/원형 연결 리스트 (Circular Linked List)/CLinkedList.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/원형 연결 리스트 (Circular Linked List)/CLinkedList.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/원형 연결 리스트 (Circular Linked List)/CLinkedListMain.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/재귀 (Recursion)/Recursion(BS).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/재귀 (Recursion)/Recursion(Fibonacci).c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/재귀 (Recursion)/Recursion(HanoiTowerMove).c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="e43572ad-9381-474a-acb6-fcd201c9cb14" />
+  <component name="ProjectId" id="1oHcZ8AZZto10ci7b3btBDd4Mmg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5040dea9-f32d-4867-af2c-46f823206bb4" name="Default Changelist" comment="" />
+      <created>1612947012522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612947012522</updated>
+      <workItem from="1612947015400" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
